@@ -14,8 +14,6 @@ This To-Do List smart contract allows users to manage their tasks on the Ethereu
 - **Filter Completed Tasks**: Get only the tasks that have been marked as completed.
 
 ## Smart Contract Code
-
-```solidity
 ToDoList2.sol
 
 ## How to Deploy and Use
