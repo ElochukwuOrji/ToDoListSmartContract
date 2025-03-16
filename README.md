@@ -32,4 +32,4 @@ ToDoList2.sol
    Use the provided functions to create, toggle, delete, and retrieve tasks.
 
 ## Conclusion
-** This smart contract serves as a basic example of task management on the blockchain. It can be expanded with more features and improvements based on user needs and feedback. 
+This smart contract serves as a basic example of task management on the blockchain. It can be expanded with more features and improvements based on user needs and feedback. 
